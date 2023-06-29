@@ -1,1 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 10; SC-453A Build/R89JHZ) Mozilla/5.0 (Linux; Android 10; SM-T307U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5670.211 Mobile Safari/537.36
 Veer-36201K5051411TCOIRF678270914211SMPP
